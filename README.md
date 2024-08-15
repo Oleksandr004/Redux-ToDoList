@@ -34,7 +34,7 @@ git clone https://github.com/Oleksandr004/Redux-ToDoList
 ### 2. Go to the project folder:
 
 ```bash
-cd todolist
+cd Redux-ToDoList
 ```
 
 ### 3. Set up dependencies:
