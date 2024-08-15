@@ -1,0 +1,51 @@
+.pop_up {
+	display: none;
+}
+.active {
+	display: block;
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	z-index: 1;
+	background-color: rgb(0, 0, 0, 0.5);
+}
+.body {
+	padding: 30px;
+	height: 500px;
+	width: 500px;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: #62fa74;
+	form {
+		input {
+			width: 100%;
+			height: 40px;
+			border-radius: 8px;
+		}
+	}
+}
+.title {
+	font-weight: 600;
+	font-size: 3rem;
+	font-family: 'Inter', sans-serif;
+	margin-bottom: 30px;
+}
+.closer__btn {
+	max-width: 30px;
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	cursor: pointer;
+}
+.submit__btn {
+	width: 100px;
+	height: 35px;
+	background-color: red;
+	border-radius: 10px;
+	display: block;
+	margin: 50px auto 0;
+}
