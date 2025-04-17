@@ -4,6 +4,7 @@ This is a ToDoList application built on top of React using Vite, TypeScript, SCS
 
 ## Demo:
 [OPEN PROJECT](https://redux-to-do-list-one.vercel.app/)
+
 [Redux ToDOList Demo](https://ibb.co/KFyyzrr) 
 
 ## Functionality.
