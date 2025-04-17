@@ -3,8 +3,8 @@
 This is a ToDoList application built on top of React using Vite, TypeScript, SCSS modules, and Redux. The application allows the user to create, save, mark completed tasks, and delete them. There is also a search for tasks. All data is stored in the browser's LocalStorage.
 
 ## Demo:
-
-![Redux ToDOList Demo](https://ibb.co/KFyyzrr) 
+[OPEN PROJECT](https://redux-to-do-list-one.vercel.app/)
+[Redux ToDOList Demo](https://ibb.co/KFyyzrr) 
 
 ## Functionality.
 
